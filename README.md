@@ -11,9 +11,14 @@
 Bibliotecas Usadas: 
 
 PySide2
+
 PySide2.QtWidgets
+
 sys
+
 re
+
 requests
+
 urllib
 
